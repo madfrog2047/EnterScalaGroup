@@ -36,7 +36,6 @@ object CombSort {
                 swapped = true
             }
             counter = counter + 1
-            src.foreach(x => println(x))
 
         }
         (src, counter)
